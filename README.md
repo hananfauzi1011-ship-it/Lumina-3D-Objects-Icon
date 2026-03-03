@@ -23,6 +23,10 @@ Berikut adalah hasil render dari aset ikon 3D:
 
 
 ## 🔗 Project Links
-* **Gumroad (Public):** [](https://fauzihana.gumroad.com/l/ehmgre)]
-* **Raw Files (Google Drive):** [](https://drive.google.com/drive/folders/1btzP5_g1VDdtDgMHLhDuCvbhLacqTO7-?usp=drive_link)]
-* **Politeknik IDN Portfolio:** [](https://portofolio.politeknikidn.id/m/portofolio-saya/OWv6uxqh0M/preview)]
+## External Resources
+
+| Platform | Link |
+|----------|-------|
+| Behance | [View Project](https://behance.net/your-link) |
+| Figma | [Open Design File](https://figma.com/your-link) |
+| Google Drive | [View Documentation](https://drive.google.com/your-link) |
