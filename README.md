@@ -22,11 +22,9 @@ Berikut adalah hasil render dari aset ikon 3D:
 | ![Task List](icon%204.png) | ![Like/Heart](icon%205.png) |
 
 
-## 🔗 Project Links
-## External Resources
+## External Links
 
-| Platform | Link |
-|----------|-------|
-| Behance | [View Project](https://behance.net/your-link) |
-| Figma | [Open Design File](https://figma.com/your-link) |
-| Google Drive | [View Documentation](https://drive.google.com/your-link) |
+- 🎨 Behance Project: [(https://fauzihana.gumroad.com/l/ehmgre)
+- 📁 Figma File: https://figma.com/your-link
+- 📂 Full Documentation (Google Drive): https://drive.google.com/your-link
+- 🔗 Repository Link: https://github.com/your-link
