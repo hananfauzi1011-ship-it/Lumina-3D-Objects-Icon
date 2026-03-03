@@ -1,6 +1,5 @@
 # Lumina-3D-Objects-Icon
 This project features a set of 3D icons crafted with a modern, low-poly aesthetic and a cohesive soft-magenta color palette. Each icon is designed to bring depth and a playful touch to digital interfaces.
-This project features a set of 3D icons crafted with a modern, low-poly aesthetic and a cohesive soft-magenta color palette. Each icon is designed to bring depth and a playful touch to digital interfaces.
 
 
 ## 📄 Project Documentation
@@ -24,7 +23,6 @@ Berikut adalah hasil render dari aset ikon 3D:
 
 ## External Links
 
-- 🎨 Behance Project: [(https://fauzihana.gumroad.com/l/ehmgre)
-- 📁 Figma File: https://figma.com/your-link
-- 📂 Full Documentation (Google Drive): https://drive.google.com/your-link
-- 🔗 Repository Link: https://github.com/your-link
+- 🎨 Behance Project: https://fauzihana.gumroad.com/l/ehmgre
+- 📂 Full Result (Google Drive): https://drive.google.com/drive/folders/1btzP5_g1VDdtDgMHLhDuCvbhLacqTO7-?usp=drive_link
+- 🔗 Portofolio Link: (https://portofolio.politeknikidn.id/m/portofolio-saya/OWv6uxqh0M/preview)
